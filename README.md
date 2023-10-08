@@ -13,8 +13,7 @@ Download Youtube videos.
 
 **Instruction:**
 - Open your terminal in YouTube Downloader Directory
-- Type:
-- ```python Youtube-Downloader.py```
+- Type: ```python Youtube-Downloader.py```
 - Enter your video link
 - Select a mode
 - Wait for downloading porcess to finish
