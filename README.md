@@ -17,5 +17,5 @@ Download Youtube videos.
 - Enter your video link
 - Select a mode
 - Wait for downloading porcess to finish
-- You can find the video file in YouTube Downloader foleder
+- You can find the video file in YouTube Downloader folder
   
